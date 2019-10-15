@@ -1,9 +1,16 @@
 ### Create instance ec2 with ssh access
+
 create ec2 instance
+
 create vpc
+
 create subnet - 172.30.0.0/16 or 172.30.3.0/24
+
 create internet gateway
+
 create route tables - 0.0.0.0/0 to internet gateway
+
+
 
 ### Install without verification
 yum update -y
