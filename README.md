@@ -17,4 +17,4 @@ yum update -y
 
 
 ### Install new php package
-sudo amazon-linux-extras install -y lamp-mariadb10.2-php7.2 php7.2
+(1) sudo amazon-linux-extras install -y lamp-mariadb10.2-php7.2 php7.2
