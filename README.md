@@ -1,14 +1,14 @@
 ### Create instance ec2 with ssh access
 
-create ec2 instance
+(1) create ec2 instance
 
-create vpc
+(2) create vpc
 
-create subnet - 172.30.0.0/16 or 172.30.3.0/24
+(3) create subnet - 172.30.0.0/16 or 172.30.3.0/24
 
-create internet gateway
+(4) create internet gateway
 
-create route tables - 0.0.0.0/0 to internet gateway
+(5) create route tables - 0.0.0.0/0 to internet gateway
 
 
 
